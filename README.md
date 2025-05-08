@@ -1,0 +1,2 @@
+# Regulaminm
+Regulamin serwera
